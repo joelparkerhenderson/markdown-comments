@@ -2,6 +2,8 @@
 
 Demonstration of various ways to do Markdown comments.
 
+To try the Markdown yourself: https://babelmark.github.io/
+
 Source: https://stackoverflow.com/questions/4823468/comments-in-markdown
 
 
